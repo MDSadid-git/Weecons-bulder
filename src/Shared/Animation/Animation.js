@@ -38,7 +38,7 @@ const Animation = () => {
           target="_blank"
           href="https://www.linkedin.com/in/md-omar-faruq-7458b819a/"
         >
-          © 2022 Weero Digital
+          © 2022 Weecons Bulder
         </a>
       </p>
     </>
