@@ -39,7 +39,7 @@ const BannerSlider = () => {
             <div>
               <img
                 alt=""
-                className="w-full max-h-screen md:w-96 sm:w-full"
+                className="w-full max-h-screen md:w-96 sm:w-full opacity-60"
                 src={bannerImg1}
               />
 
@@ -50,9 +50,11 @@ const BannerSlider = () => {
                   We Provide Professional
                 </h1>
 
-                <h1 className="lg:text-6xl text-2xl font-serif font-semibold text-white mb-6 tracking-widest">
-                  <span className="uppercase text-secondary">construction</span>{" "}
-                  services
+                <h1 className="lg:text-6xl text-2xl font-serif font-semibold text-white mb-6 tracking-widest flex">
+                  <span className="uppercase text-white">construction</span>{" "}
+                  <span className="uppercase text-secondary ml-2">
+                    services
+                  </span>
                 </h1>
 
                 <Link
@@ -74,7 +76,7 @@ const BannerSlider = () => {
             <div>
               <img
                 alt=""
-                className="lg:w-full max-h-screen md:w-96 sm:w-full"
+                className="lg:w-full max-h-screen md:w-96 sm:w-full opacity-60"
                 src={bannerImg2}
               />
 
@@ -85,9 +87,11 @@ const BannerSlider = () => {
                   We Provide Professional
                 </h1>
 
-                <h1 className="text-2xl lg:text-6xl font-serif font-semibold text-white mb-6 tracking-widest">
-                  <span className="uppercase text-secondary">construction</span>{" "}
-                  services
+                <h1 className="lg:text-6xl text-2xl font-serif font-semibold text-white mb-6 tracking-widest flex">
+                  <span className="uppercase text-white">construction</span>{" "}
+                  <span className="uppercase text-secondary ml-2">
+                    services
+                  </span>
                 </h1>
 
                 <Link
@@ -109,7 +113,7 @@ const BannerSlider = () => {
             <div>
               <img
                 alt=""
-                className="lg:w-full max-h-screen md:w-96 sm:w-full"
+                className="lg:max-w-screen max-h-screen md:w-96 sm:w-full opacity-40"
                 src={bannerImg3}
               />
 
@@ -120,9 +124,11 @@ const BannerSlider = () => {
                   We Provide Professional
                 </h1>
 
-                <h1 className="lg:text-6xl text-2xl font-serif font-semibold text-white mb-6 tracking-widest">
-                  <span className="uppercase text-secondary">construction</span>{" "}
-                  services
+                <h1 className="lg:text-6xl text-2xl font-serif font-semibold text-white mb-6 tracking-widest flex">
+                  <span className="uppercase text-white">construction</span>{" "}
+                  <span className="uppercase text-secondary ml-2">
+                    services
+                  </span>
                 </h1>
 
                 <Link
