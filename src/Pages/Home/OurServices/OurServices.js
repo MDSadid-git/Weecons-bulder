@@ -62,11 +62,11 @@ const OurServices = () => {
   return (
     <>
       <div className="flex flex-col text-center w-full mb-20 pt-14">
-        <h2 className="text-secondary font-bold text-4xl uppercase relative h-auto w-full pb-1 text-center ">
+        <h2 className="text-secondary font-bold text-4xl uppercase relative h-auto w-full pb-1 text-center mt-10">
           Whats type Service
           <span className="text-brand"> Needed!</span>
         </h2>
-        <p className="lg:w-2/3 mx-auto leading-relaxed text-textColure">
+        <p className="lg:w-2/3 mx-auto leading-relaxed text-textColure mt-5">
           Construction is a general term meaning the art and science to form
           objects systems organizations, and comes from Latin construction and
           Old French construction. To construct is the verb: the act of
