@@ -33,11 +33,11 @@ const States = () => {
   return (
     <>
       <div className="flex flex-col text-center w-full  pt-14">
-        <h2 className="text-secondary font-bold text-5xl uppercase relative h-auto w-full pb-1 text-center ">
+        <h2 className="text-secondary font-bold text-4xl uppercase relative h-auto w-full pb-1 text-center ">
           Delivering The Most Innovation
           <span className="text-brand"> Goals.</span>
         </h2>
-        <p className="lg:w-2/3 mx-auto leading-relaxed text-textColure">
+        <p className="lg:w-2/3 mx-auto leading-relaxed text-textColure mt-5 mb-6">
           Construction is a general term meaning the art and science to form
           objects systems organizations, and comes from Latin construction and
           Old French construction. To construct is the verb: the act of
