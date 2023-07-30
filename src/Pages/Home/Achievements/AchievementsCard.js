@@ -8,7 +8,7 @@ const AchievementsCard = ({ infoData }) => {
         <div className="flex relative ">
           <img
             alt="gallery"
-            className="absolute inset-0 w-full h-full object-cover object-center"
+            className="absolute inset-0 w-full h-52 object-cover object-center"
             src={img}
           />
           <div className="px-8 py-10 relative z-10 w-full border-2 border-brand bg-brand opacity-0 hover:opacity-100 transition duration-300 ease-linear">
