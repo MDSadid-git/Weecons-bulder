@@ -16,7 +16,7 @@ const OurClients = () => {
           OUR
           <span className="text-brand"> Clients</span>
         </h2>
-        <p className="lg:w-2/3 mx-auto leading-relaxed text-textColure">
+        <p className="lg:w-2/3 mx-auto leading-relaxed text-textColure mt-5">
           Construction is a general term meaning the art and science to form
           objects systems organizations, and comes from Latin construction and
           Old French construction. To construct is the verb: the act of
