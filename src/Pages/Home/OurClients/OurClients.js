@@ -40,11 +40,11 @@ const OurClients = () => {
         ]}
         animationSpeed={1000}
       >
-        <img className="w-40" src={CLogo1} />
-        <img className="w-40" src={CLogo2} />
-        <img className="w-40" src={CLogo3} />
-        <img className="w-40" src={CLogo4} />
-        <img className="w-40" src={CLogo5} />
+        <img className="w-40" src={CLogo1} alt="logo" />
+        <img className="w-40" src={CLogo2} alt="logo" />
+        <img className="w-40" src={CLogo3} alt="logo" />
+        <img className="w-40" src={CLogo4} alt="logo" />
+        <img className="w-40" src={CLogo5} alt="logo" />
       </Carousel>
     </>
   );
