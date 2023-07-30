@@ -22,10 +22,10 @@ const Info = () => {
             className="w-full h-full absolute z-0 sm:hidden"
           />
           <div className="bg-brand bg-opacity-50 md:my-16 lg:py-16 py-10 w-full md:mx-24 md:px-12 px-4 flex flex-col items-center justify-center relative z-40">
-            <h1 className="text-4xl font-semibold leading-9 text-secondary text-center">
+            <h1 className="text-4xl font-bold leading-9 text-secondary text-center">
               Don’t miss out!
             </h1>
-            <p className="text-base leading-normal text-center text-gray-500 mt-6">
+            <p className="text-base leading-normal text-center text-gray-600 mt-6">
               Subscribe to your newsletter to stay in the loop. Our newsletter
               is sent once in <br />a week on every friday so subscribe to get
               latest news and updates.
