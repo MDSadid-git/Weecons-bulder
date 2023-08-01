@@ -7,7 +7,7 @@ const MissionAndVision = () => {
         <div class="grid gap-12 row-gap-8 lg:grid-cols-2">
           <div class="flex flex-col justify-center">
             <div class="max-w-xl mb-6">
-              <h2 className="text-secondary font-bold text-4xl uppercase relative h-auto w-full pb-1">
+              <h2 className="text-secondary font-bold text-3xl uppercase relative h-auto w-full pb-1 mb-5">
                 We're Building Everything Best That You
                 <span className="text-brand"> Needed!</span>
               </h2>
