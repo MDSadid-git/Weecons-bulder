@@ -188,7 +188,7 @@ const FAQ = () => {
 
               <div className="group">
                 <div>
-                  <h1 className="text-secondary font-bold text-xl mt-14 mb-5 flex align-baseline items-center">
+                  <h1 className="text-secondary font-bold text-xl md:text-4xl mt-14 mb-8 flex align-baseline items-center">
                     Latest Post
                     <Icon
                       icon="ph:arrow-right-duotone"
