@@ -30,7 +30,7 @@ const History = () => {
 
       <section className="bg-backgroundColor py-20">
         <div className="flex flex-col text-center w-full mb-20 pt-14">
-          <h2 className="text-secondary font-bold text-4xl uppercase relative h-auto w-full pb-1 text-center ">
+          <h2 className="text-secondary font-bold md:text-5xl text-3xl mb-7 uppercase relative h-auto w-full pb-1 text-center ">
             product
             <span className="text-brand"> History</span>
           </h2>
