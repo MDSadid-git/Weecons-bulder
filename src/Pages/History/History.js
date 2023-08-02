@@ -4,6 +4,7 @@ import bannerImg from "../../assets/Banner/BannerPicture/bannerPic1.png";
 import banner from "../../assets/Banner/pic1.jpg";
 
 import logo from "../../assets/logo/colorLogo.png";
+import { Link } from "react-router-dom";
 
 const History = () => {
   const print = () => {
@@ -49,7 +50,11 @@ const History = () => {
                   <div className="flex justify-between items-top">
                     <div className="space-y-4">
                       <div>
-                        <img className="h-8 object-cover mb-4" src={logo} />
+                        <img
+                          className="h-8 object-cover mb-4"
+                          src={logo}
+                          alt="logo"
+                        />
                         <p className="font-bold text-lg"> Invoice </p>
                         <p> MJWebs </p>
                       </div>
@@ -80,7 +85,7 @@ const History = () => {
                         <p> 57 630 182 446 </p>
                       </div>
                       <div>
-                        <a
+                        <Link
                           href="#"
                           target="_blank"
                           className="inline-flex items-center text-sm font-medium  text-secondary hover:opacity-75 "
@@ -95,10 +100,10 @@ const History = () => {
                             <path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z" />
                             <path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z" />
                           </svg>
-                        </a>
+                        </Link>
                       </div>
                       <div>
-                        <a
+                        <Link
                           href="#"
                           target="_blank"
                           className="inline-flex items-center text-sm font-medium  text-secondary hover:opacity-75 "
@@ -113,7 +118,7 @@ const History = () => {
                             <path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z" />
                             <path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z" />
                           </svg>
-                        </a>
+                        </Link>
                       </div>
                     </div>
                   </div>
